@@ -4,7 +4,7 @@ djangorestframework==3.9.1
 psycopg2-binary==2.7.7
 pytz==2018.9
 
-# TensorFlow e dependências
+# TensorFlow e dependencias
 tensorflow==1.12.0
 tensorboard==1.12.2
 tensorflow-estimator==1.13.0
@@ -21,7 +21,7 @@ pandas==0.24.2
 scipy==1.2.0
 scikit-learn==0.20.2
 
-# Utilitários
+# Utilitarios
 absl-py==0.7.0
 astor==0.7.1
 gast==0.2.2
